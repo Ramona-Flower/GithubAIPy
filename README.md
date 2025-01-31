@@ -98,7 +98,7 @@ Example 3: Using a Different Model
 
 ```python
 
-response = ask("Codex", "Write a Python function to calculate the Fibonacci sequence.")
+response = ask("Mistral-Large-2411", "Write a Python function to calculate the Fibonacci sequence.")
 print(response)
 
 ```
