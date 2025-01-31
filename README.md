@@ -1,6 +1,8 @@
 
 # GithubAIPy
 
+They released this recently, so why not make a wrapper of it, to use everywhere !
+
 A Python package to interact with GitHub AI models. Easily authenticate and query AI models using a simple and intuitive interface.
 
 ## Installation
